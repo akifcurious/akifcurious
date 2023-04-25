@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-Thanks for visiting my profile. I work as a Technical Consultant at Salesforce. 
+Thanks for visiting my profile. I am a Salesforce Technical Consultant. Recently, I've been working on the following initiatives in my spare time:
+
+1. wordle
+2. restaurant-explorer
+
+I welcome your valuable feedback and insights on these endeavors. I'm always eager to connect with like-minded individuals and engage in stimulating technical conversations. Please don't hesitate to reach out and let's explore how we can learn from each other!
 
 <!--
 **akifcurious/akifcurious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
